@@ -1,0 +1,5 @@
+1) Alterar assets
+2) Adicionar dark/light mode
+3) Utilizar uma fonte mais agradável e mudar a cor dos elementos
+4) Efeito de focus quando clicar em cima dos inputs
+5) 
