@@ -1,4 +1,7 @@
 import { Level } from "../../helpers/imc"
+import styles from './GridItem.module.css'
+import upImage from '../../assets/up.png'
+import downImage from '../../assets/down.png'
 
 type Props = {
   item: Level
@@ -6,6 +9,8 @@ type Props = {
 
 export const GridItem = ({ item }: Props) => {
   return (
-    <div>...</div>
+    <div className={styles.main} style={{ backgroundColor: item.color}}>
+      
+    </div>
   )
 }
