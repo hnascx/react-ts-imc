@@ -1,5 +1,0 @@
-1) Update assets
-2) Add dark/light mode
-3) Update the font style and the color elements
-4) Focus effet when inputs was clicked
-5) Other implementations...
