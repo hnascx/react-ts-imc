@@ -1,6 +1,6 @@
 # BMI Calculator
 
-Just a responsive BMI calculator made with React.js and Typescript
+Just a responsive BMI calculator made with React.js and Typescript.
 
 ### Installation
 
