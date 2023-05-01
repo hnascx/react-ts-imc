@@ -1,6 +1,6 @@
 # IMC Calculator
 
-React + Typescript project. 
+Just a responsive BMI calculator made with React.js and Typescript
 
 ### Installation
 
