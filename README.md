@@ -1,4 +1,4 @@
-# IMC Calculator
+# BMI Calculator
 
 Just a responsive BMI calculator made with React.js and Typescript
 
